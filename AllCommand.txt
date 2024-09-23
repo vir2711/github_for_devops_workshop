@@ -7,3 +7,5 @@
   12        0.293 git status
   13        1.839 git status
   14        1.265 clear
+
+This is some new changes
